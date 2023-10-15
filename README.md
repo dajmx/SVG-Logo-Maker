@@ -40,7 +40,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
 ## Video:
-[Click Here to Watch](./resources/video/shapes.js%20-%20Challenge10%20-%20Visual%20Studio%20Code%202023-10-15%2014-21-31.mp4)
+[Click Here to Watch](https://youtu.be/5xXIykXSi0M)
 
 ## Screenshot:
 
